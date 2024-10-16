@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextUtils/static/css/main.e5888336.css",
-    "main.js": "/TextUtils/static/js/main.962fd55c.js",
-    "static/js/787.28372f46.chunk.js": "/TextUtils/static/js/787.28372f46.chunk.js",
-    "index.html": "/TextUtils/index.html",
-    "main.e5888336.css.map": "/TextUtils/static/css/main.e5888336.css.map",
-    "main.962fd55c.js.map": "/TextUtils/static/js/main.962fd55c.js.map",
-    "787.28372f46.chunk.js.map": "/TextUtils/static/js/787.28372f46.chunk.js.map"
+    "main.css": "/To-Do-App-With-React-JS/static/css/main.96fef327.css",
+    "main.js": "/To-Do-App-With-React-JS/static/js/main.7de480e5.js",
+    "static/js/488.50442ee8.chunk.js": "/To-Do-App-With-React-JS/static/js/488.50442ee8.chunk.js",
+    "index.html": "/To-Do-App-With-React-JS/index.html",
+    "main.96fef327.css.map": "/To-Do-App-With-React-JS/static/css/main.96fef327.css.map",
+    "main.7de480e5.js.map": "/To-Do-App-With-React-JS/static/js/main.7de480e5.js.map",
+    "488.50442ee8.chunk.js.map": "/To-Do-App-With-React-JS/static/js/488.50442ee8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5888336.css",
-    "static/js/main.962fd55c.js"
+    "static/css/main.96fef327.css",
+    "static/js/main.7de480e5.js"
   ]
 }
